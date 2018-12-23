@@ -1,6 +1,6 @@
 # halite2
 
-This AI placed 58 in the [halite 2 competition](https://halite.io/user/?user_id=1401) under the username Rampagy.
+This AI placed 58 in the [halite 2 competition](https://2017.halite.io/user/?user_id=1401) under the username Rampagy.
 
 ## Outline
 
